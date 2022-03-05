@@ -1,5 +1,3 @@
-# This program is about to Health management System using file I/O in Python...
-
 def log(cli_Name):
     print("Enter 1 for add Food and 2 for add Excersise : \n ==> ", end = "")
     c_choice = input()
